@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Virtual Advisor</title>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -15,6 +15,11 @@
                 Nathan Williams
             </h2>
         </div>
+        <ul>
+            <li>
+                <a href="Wiki.aspx">Our Blog</a>
+            </li>
+        </ul>
     </form>
 </body>
 </html>
